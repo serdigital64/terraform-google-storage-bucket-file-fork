@@ -20,10 +20,11 @@
 Terraform module for Google Storage Bucket:
 
 - Scope: single file versioning (e.g.: terraform state file)
-- Versioning enabled
-- Multi-region storage class
-- Public access prevention enabled
-- Standard encryption
+- Features:
+  - Versioning enabled
+  - Multi-region storage class
+  - Public access prevention enabled
+  - Standard encryption
 
 ---
 
